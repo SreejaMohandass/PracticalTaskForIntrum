@@ -1,0 +1,8 @@
+This is a practical task for Intrum
+The project includes testing of the contcat us form. The Happy path and the validation checks as well
+This uses Cucumber TestNG
+Parallel run has been implemented
+Config.Properties file contains the URL that is under test
+
+How to Run:
+Run the testng.xml file
